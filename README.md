@@ -36,24 +36,23 @@
 
 ## 📊 Estatísticas e Tecnologias
 
-<p>
+<p align="center">
   <img 
-    align="left" 
+    align="center" 
     alt="Estatísticas do GitHub" 
     height="200" 
-    style="padding-right: 20px" 
-    src="https://github-readme-stats.vercel.app/api?username=vitorvlofc&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&rand=123456" 
+    style="padding-right: 20px;" 
+    src="https://github-readme-stats.vercel.app/api?username=vitorvlofc&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&cache_seconds=900" 
   />
   <img 
-    align="left" 
+    align="center" 
     alt="Linguagens mais usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvlofc&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9&rand=123456" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvlofc&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9&cache_seconds=900" 
   />
 </p>
+
 <br clear="both"/>
-
-
 
 <p align="center">
   <picture>
@@ -72,10 +71,9 @@
 [![Projeto 1](https://img.shields.io/badge/Projeto1-Python-blue?style=for-the-badge)](https://github.com/vitorvlofc/projeto1)
 [![Projeto 2](https://img.shields.io/badge/Projeto2-Django-green?style=for-the-badge)](https://github.com/vitorvlofc/projeto2)
 [![Projeto 3](https://img.shields.io/badge/Projeto3-API-red?style=for-the-badge)](https://github.com/vitorvlofc/projeto3)
+
 </div>
 -->
-
-
 
 ## 🌎 Onde me encontrar
 <div align="center">

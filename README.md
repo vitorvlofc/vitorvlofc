@@ -24,16 +24,6 @@
 
 ---
 
-## 📊 Estatísticas
-<div align="center">
-
-<img alt="Estatísticas do GitHub" height="180" src="https://github-readme-stats-ebon-zeta-95.vercel.app/api?username=vitorvlofc&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=github&cache_seconds=30" />
-<img alt="Linguagens mais usadas" height="180" src="https://github-readme-stats-ebon-zeta-95.vercel.app/api/top-langs/?username=vitorvlofc&layout=compact&theme=github_dark&cache_seconds=30" />
-
-</div>
-
----
-
 ## 🌎 Onde me encontrar
 <div align="center">
 
